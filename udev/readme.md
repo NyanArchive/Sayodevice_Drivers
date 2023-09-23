@@ -1,4 +1,4 @@
-from https://rentry.co/o3c#factory-reset
+from https://github.com/Sayobot/Sayo_CLI/blob/main/98-saybot.rules
 
 this will work [web version](https://sayodevice.com) on linux
 
@@ -11,5 +11,3 @@ sudo udevadm control --reload-rules
 automatically fetches file using github actions
 
 filename might be changed
-
-
